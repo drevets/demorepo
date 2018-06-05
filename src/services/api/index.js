@@ -38,4 +38,3 @@ export const fetchApi = (endPoint, payload = {}, method = 'get', headers = {}) =
   })
 };
 
-//wtf is this doing???
